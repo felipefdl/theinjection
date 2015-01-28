@@ -4,6 +4,11 @@ This simple and useful dependency injection to node.js similar angular.js.
 
 ## Documentation
 
+Install
+```bash
+$ npm install theinjection --save
+```
+
 For first you need register dependency.
 
 ```javascript
