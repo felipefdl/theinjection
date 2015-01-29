@@ -2,6 +2,8 @@
 
 This simple and useful dependency injection to node.js similar angular.js.
 
+[![wercker status](https://app.wercker.com/status/8d500ae3d6d286f7f54987bbe441d041/s "wercker status")](https://app.wercker.com/project/bykey/8d500ae3d6d286f7f54987bbe441d041)
+
 ## Documentation
 
 Install
